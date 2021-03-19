@@ -1,0 +1,121 @@
+{
+     "Sol": {
+          "0": "813",
+          "1": "814",
+          "2": "815",
+          "3": "818",
+          "4": "819"
+     },
+     "First_UTC": {
+          "0": "2021-03-10T13:35:28Z",
+          "1": "2021-03-11T14:15:03Z",
+          "2": "2021-03-12T14:54:38Z",
+          "3": "2021-03-15T20:01:49Z",
+          "4": "2021-03-16T17:32:59Z"
+     },
+     "Last_UTC": {
+          "0": "2021-03-11T14:14:59Z",
+          "1": "2021-03-12T14:54:34Z",
+          "2": "2021-03-13T15:34:09Z",
+          "3": "2021-03-16T17:32:54Z",
+          "4": "2021-03-17T18:12:29Z"
+     },
+     "Month_ordinal": {
+          "0": 12,
+          "1": 12,
+          "2": 12,
+          "3": 12,
+          "4": 12
+     },
+     "Northern_season": {
+          "0": "late winter",
+          "1": "late winter",
+          "2": "late winter",
+          "3": "late winter",
+          "4": "late winter"
+     },
+     "Season": {
+          "0": "winter",
+          "1": "winter",
+          "2": "winter",
+          "3": "winter",
+          "4": "winter"
+     },
+     "Southern_season": {
+          "0": "late summer",
+          "1": "late summer",
+          "2": "late summer",
+          "3": "late summer",
+          "4": "late summer"
+     },
+     "av": {
+          "0": 727.909,
+          "1": 728.121,
+          "2": 728.378,
+          "3": 727.696,
+          "4": 730.402
+     },
+     "ct": {
+          "0": 100620,
+          "1": 104121,
+          "2": 153082,
+          "3": 109855,
+          "4": 100681
+     },
+     "mn": {
+          "0": 706.2391,
+          "1": 706.9009,
+          "2": 708.4211,
+          "3": 710.223,
+          "4": 709.8325
+     },
+     "mx": {
+          "0": 743.8608,
+          "1": 745.4649,
+          "2": 744.9279,
+          "3": 743.946,
+          "4": 744.4856
+     },
+     "FHAZ": {
+          "0": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03055/opgs/edr/fcam/FRB_668693402EDR_F0870792FHAZ00337M_.JPG",
+          "1": "None Found",
+          "2": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03056/opgs/edr/fcam/FRB_668799426EDR_F0870792FHAZ00337M_.JPG",
+          "3": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03059/opgs/edr/fcam/FLB_669054831EDR_F0870792FHAZ00341M_.JPG",
+          "4": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03060/opgs/edr/fcam/FRB_669134763EDR_F0870792FHAZ00341M_.JPG"
+     },
+     "RHAZ": {
+          "0": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03055/opgs/edr/rcam/RRB_668693436EDR_F0870792RHAZ00337M_.JPG",
+          "1": "None Found",
+          "2": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03056/opgs/edr/rcam/RLB_668799467EDR_F0870792RHAZ00337M_.JPG",
+          "3": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03059/opgs/edr/rcam/RLB_669054875EDR_F0870792RHAZ00341M_.JPG",
+          "4": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03060/opgs/edr/rcam/RRB_669134789EDR_F0870792RHAZ00341M_.JPG"
+     },
+     "MAST": {
+          "0": "https://mars.nasa.gov/msl-raw-images/msss/03055/mcam/3055ML0159610140408234C00_DXXX.jpg",
+          "1": "None Found",
+          "2": "https://mars.nasa.gov/msl-raw-images/msss/03056/mcam/3056ML0159670010408242E01_DXXX.jpg",
+          "3": "https://mars.nasa.gov/msl-raw-images/msss/03059/mcam/3059ML0159810040308455C00_DXXX.jpg",
+          "4": "https://mars.nasa.gov/msl-raw-images/msss/03060/mcam/3060ML0159860310308504C00_DXXX.jpg"
+     },
+     "CHEMCAM": {
+          "0": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03055/opgs/edr/ccam/CR0_668699450EDR_F0870792CCAM03054M_.JPG",
+          "1": "None Found",
+          "2": "None Found",
+          "3": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03059/opgs/edr/ccam/CR0_669054608EDR_F0870792CCAM04058M_.JPG",
+          "4": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03060/opgs/edr/ccam/CR0_669139044EDR_F0870792CCAM02060M_.JPG"
+     },
+     "MAHLI": {
+          "0": "None Found",
+          "1": "None Found",
+          "2": "https://mars.nasa.gov/msl-raw-images/msss/03056/mhli/3056MH0001970011101162C00_DXXX.jpg",
+          "3": "None Found",
+          "4": "None Found"
+     },
+     "NAVCAM": {
+          "0": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03055/opgs/edr/ncam/NRB_668689711EDR_F0870792NCAM00213M_.JPG",
+          "1": "None Found",
+          "2": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03056/opgs/edr/ncam/NLB_668797649EDR_F0870792NCAM00309M_.JPG",
+          "3": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03059/opgs/edr/ncam/NRB_669055197EDR_S0870792NCAM00567M_.JPG",
+          "4": "https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/03060/opgs/edr/ncam/NRB_669139582EDR_S0870792NCAM00595M_.JPG"
+     }
+}
